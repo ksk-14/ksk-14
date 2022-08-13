@@ -8,5 +8,5 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ksk-14&theme=radical&column=6
+[![trophy](https://github-profile-trophy.vercel.app/?username=ksk-14&theme=radical&rank=A,B,C&column=6
 )](https://github.com/ryo-ma/github-profile-trophy)

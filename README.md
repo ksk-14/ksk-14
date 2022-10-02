@@ -46,6 +46,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="figma" width="40" height="40"/>
+</a>
+
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>

@@ -26,6 +26,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 
+<a href="https://jquery.com/" target="_blank" rel="noreferrer">
+<img src="https://produce-web.net/wp-content/uploads/2021/04/jquery_original_wordmark_logo_icon_146447.png" alt="react" width="40" height="40"/>
+</a>
+
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a>
@@ -33,6 +37,10 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
 </a> 
+
+<a href="https://www.codeigniter.com/" target="_blank" rel="noreferrer"> 
+<img src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png" alt="php" width="40" height="40"/>
+</a>
 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
